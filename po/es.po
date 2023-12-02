@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Comprehensive Rust 🦀\n"
 "POT-Creation-Date: 2023-12-02T17:36:47-03:00\n"
-"PO-Revision-Date: 2023-12-02 22:27+0000\n"
+"PO-Revision-Date: 2023-12-02 22:42+0000\n"
 "Last-Translator: Sergio Alejandro Ribera Costa "
 "<sergioalejandroriberacosta@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/"
@@ -2328,11 +2328,11 @@ msgstr ""
 
 #: src/hello-world/small-example.md:8 src/traits/impl-trait.md:15
 msgid "\"{x}\""
-msgstr ""
+msgstr "\"{x}\""
 
 #: src/hello-world/small-example.md:8
 msgid "// Macro for printing, like printf\n"
-msgstr ""
+msgstr "// Macro para imprimir, como printf\n"
 
 #: src/hello-world/small-example.md:9
 msgid "// No parenthesis around expression\n"
