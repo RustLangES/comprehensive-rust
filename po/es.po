@@ -2,11 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Comprehensive Rust 🦀\n"
 "POT-Creation-Date: 2023-12-02T17:36:47-03:00\n"
-"PO-Revision-Date: 2023-12-02 22:23+0000\n"
-"Last-Translator: Sergio Alejandro Ribera Costa "
-"<sergioalejandroriberacosta@gmail.com>\n"
-"Language-Team: Spanish <https://hosted.weblate.org/projects/"
-"comprehensive-rust-translation/translation/es/>\n"
+"PO-Revision-Date: 2023-12-02 22:42+0000\n"
+"Last-Translator: Phosphorus Moscu <fernando.n.p.d.moscu@gmail.com>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/comprehensive-rust-translation/translation/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1856,6 +1854,7 @@ msgstr "Consulta más información en el \\[libro oficial de Cargo\\]."
 msgid ""
 "Read more from the [official Cargo Book](https://doc.rust-lang.org/cargo/)"
 msgstr ""
+"Lee mas desde el [Libro Oficial de Cargo](https://doc.rust-lang.org/cargo/)"
 
 #: src/cargo/code-samples.md:1
 msgid "Code Samples in This Training"
@@ -1887,7 +1886,7 @@ msgstr "Los bloques de código de este curso son totalmente interactivos:"
 
 #: src/cargo/code-samples.md:15 src/cargo/running-locally.md:45
 msgid "\"Edit me!\""
-msgstr ""
+msgstr "\"Editame!\""
 
 #: src/cargo/code-samples.md:19
 msgid "You can use "
@@ -2229,7 +2228,7 @@ msgstr "Vamos a hablar del programa Rust más simple, un clásico Hola Mundo:"
 
 #: src/hello-world.md:8
 msgid "\"Hello 🌍!\""
-msgstr ""
+msgstr "\"Hola 🌍!\""
 
 #: src/hello-world.md:12
 msgid "What you see:"
@@ -2319,7 +2318,7 @@ msgstr "A continuación, se muestra un pequeño programa de ejemplo de Rust:"
 
 #: src/hello-world/small-example.md:6
 msgid "// Program entry point\n"
-msgstr ""
+msgstr "// Punto de entrada del Programa\n"
 
 #: src/hello-world/small-example.md:7
 msgid "// Mutable variable binding\n"
@@ -2327,11 +2326,11 @@ msgstr ""
 
 #: src/hello-world/small-example.md:8 src/traits/impl-trait.md:15
 msgid "\"{x}\""
-msgstr ""
+msgstr "\"{x}\""
 
 #: src/hello-world/small-example.md:8
 msgid "// Macro for printing, like printf\n"
-msgstr ""
+msgstr "// Macro para imprimir, como printf\n"
 
 #: src/hello-world/small-example.md:9
 msgid "// No parenthesis around expression\n"
@@ -2456,7 +2455,7 @@ msgstr ""
 
 #: src/why-rust/an-example-in-c.md:4
 msgid "Let's consider the following \"minimum wrong example\" program in C:"
-msgstr ""
+msgstr "Consideremos el siguiente programa de \"ejemplo mínimo incorrecto\" en C:"
 
 #: src/why-rust/an-example-in-c.md:7
 #: src/android/interoperability/with-c/bindgen.md:22
