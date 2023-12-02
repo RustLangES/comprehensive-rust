@@ -3,7 +3,8 @@ msgstr ""
 "Project-Id-Version: Comprehensive Rust 🦀\n"
 "POT-Creation-Date: 2023-12-02T17:36:47-03:00\n"
 "PO-Revision-Date: 2023-12-02 22:27+0000\n"
-"Last-Translator: Phosphorus Moscu <fernando.n.p.d.moscu@gmail.com>\n"
+"Last-Translator: Sergio Alejandro Ribera Costa "
+"<sergioalejandroriberacosta@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/"
 "comprehensive-rust-translation/translation/es/>\n"
 "Language: es\n"
@@ -1855,6 +1856,7 @@ msgstr "Consulta más información en el \\[libro oficial de Cargo\\]."
 msgid ""
 "Read more from the [official Cargo Book](https://doc.rust-lang.org/cargo/)"
 msgstr ""
+"Lee mas desde el [Libro Oficial de Cargo](https://doc.rust-lang.org/cargo/)"
 
 #: src/cargo/code-samples.md:1
 msgid "Code Samples in This Training"
@@ -1886,7 +1888,7 @@ msgstr "Los bloques de código de este curso son totalmente interactivos:"
 
 #: src/cargo/code-samples.md:15 src/cargo/running-locally.md:45
 msgid "\"Edit me!\""
-msgstr ""
+msgstr "\"Editame!\""
 
 #: src/cargo/code-samples.md:19
 msgid "You can use "
@@ -2228,7 +2230,7 @@ msgstr "Vamos a hablar del programa Rust más simple, un clásico Hola Mundo:"
 
 #: src/hello-world.md:8
 msgid "\"Hello 🌍!\""
-msgstr ""
+msgstr "\"Hola 🌍!\""
 
 #: src/hello-world.md:12
 msgid "What you see:"
@@ -2318,7 +2320,7 @@ msgstr "A continuación, se muestra un pequeño programa de ejemplo de Rust:"
 
 #: src/hello-world/small-example.md:6
 msgid "// Program entry point\n"
-msgstr ""
+msgstr "// Punto de entrada del Programa\n"
 
 #: src/hello-world/small-example.md:7
 msgid "// Mutable variable binding\n"
