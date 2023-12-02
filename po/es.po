@@ -3,8 +3,7 @@ msgstr ""
 "Project-Id-Version: Comprehensive Rust 🦀\n"
 "POT-Creation-Date: 2023-12-02T17:36:47-03:00\n"
 "PO-Revision-Date: 2023-12-02 22:42+0000\n"
-"Last-Translator: Sergio Alejandro Ribera Costa "
-"<sergioalejandroriberacosta@gmail.com>\n"
+"Last-Translator: Phosphorus Moscu <fernando.n.p.d.moscu@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/"
 "comprehensive-rust-translation/translation/es/>\n"
 "Language: es\n"
@@ -2457,7 +2456,8 @@ msgstr ""
 
 #: src/why-rust/an-example-in-c.md:4
 msgid "Let's consider the following \"minimum wrong example\" program in C:"
-msgstr "Consideremos el siguiente programa de 'ejemplo mínimo incorrecto' en C:"
+msgstr ""
+"Consideremos el siguiente programa de \"ejemplo mínimo incorrecto\" en C:"
 
 #: src/why-rust/an-example-in-c.md:7
 #: src/android/interoperability/with-c/bindgen.md:22
