@@ -2,15 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Comprehensive Rust 🦀\n"
 "POT-Creation-Date: 2023-12-02T17:36:47-03:00\n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2023-12-02 21:52+0000\n"
+"Last-Translator: Phosphorus Moscu <fernando.n.p.d.moscu@gmail.com>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/"
+"comprehensive-rust-translation/translation/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.4\n"
+"X-Generator: Weblate 5.3-dev\n"
 
 #: src/SUMMARY.md:1
 msgid "Summary"
@@ -620,7 +621,7 @@ msgstr "Funciones Externas"
 
 #: src/SUMMARY.md:184 src/unsafe/unsafe-traits.md:1
 msgid "Implementing Unsafe Traits"
-msgstr "Implementación de Traits Unsafe (Inseguras) "
+msgstr "Implementación de Traits Unsafe (Inseguras)"
 
 #: src/SUMMARY.md:186 src/exercises/day-3/safe-ffi-wrapper.md:1
 #: src/exercises/day-3/solutions-afternoon.md:3
@@ -1944,6 +1945,8 @@ msgid ""
 "You can use any later version too since Rust maintains backwards "
 "compatibility."
 msgstr ""
+"También puedes usar cualquier versión posterior, ya que Rust mantiene la "
+"compatibilidad con versiones anteriores."
 
 #: src/cargo/running-locally.md:17
 msgid ""
